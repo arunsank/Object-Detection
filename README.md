@@ -1,6 +1,6 @@
 # Object-Detection
 Object detection using SSD
-This was simple object detection implementation using the Single Shot Multibox Detecter module created in Pytorch. The pretrained pytorch module was imported from the below link 
+This was simple object detection implementation using the Single Shot Multibox Detecter module created in Pytorch. The pretrained pytorch module of SSD was imported from the below link 
 https://github.com/amdegroot/ssd.pytorch
 
 
